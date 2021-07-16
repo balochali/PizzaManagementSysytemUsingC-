@@ -1,0 +1,15 @@
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\bin\Debug\VisualProgrammingProject.exe.config
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\bin\Debug\VisualProgrammingProject.exe
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\bin\Debug\VisualProgrammingProject.pdb
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.csprojAssemblyReference.cache
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.Properties.Resources.resources
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.csproj.GenerateResource.cache
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.csproj.CoreCompileInputs.cache
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.exe
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.pdb
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.ClassicPizza.resources
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.LoginPage.resources
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.FirstPage.resources
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.Reports.resources
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.Deals.resources
+C:\Users\Ali Baloch\source\repos\VisualProgrammingProject\VisualProgrammingProject\obj\Debug\VisualProgrammingProject.About.resources

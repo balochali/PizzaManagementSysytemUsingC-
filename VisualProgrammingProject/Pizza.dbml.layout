@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Pizza">
+  <DataContextMoniker Name="/PizzaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e6839fae-54b5-4040-8805-d916e795b2db" absoluteBounds="0.5, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/PizzaDataContext/PizzaFlavour" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fd322655-4503-4f4b-af10-ad7751ea6f68" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ebccb876-c8cc-49d0-8c5e-0f9bc9748584" absoluteBounds="2.625, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/PizzaDataContext/Starter" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2631b219-cafe-4311-8329-10bd7fb1a1f4" absoluteBounds="2.64, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="51627c60-89ae-4739-b65a-e47b36a04c4c" absoluteBounds="0.5, 2.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/PizzaDataContext/BurgerNBrost" />
+      <nestedChildShapes>
+        <elementListCompartment Id="67a767ad-aba8-4901-9aee-f7d9ca36862d" absoluteBounds="0.51500000000000012, 2.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7837df8f-0ac0-47be-85b0-fc600d08f305" absoluteBounds="2.625, 2.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/PizzaDataContext/RollNSandwich" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e6cc5421-4a84-4a39-8a09-1a7c5ee2ed2a" absoluteBounds="2.64, 2.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8b3eefa2-8051-4532-bbd6-e0d555efd473" absoluteBounds="0.5, 4.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/PizzaDataContext/SaladNPasta" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f827bfea-7b4c-41b4-8e72-f5b0e8df855e" absoluteBounds="0.51500000000000012, 4.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a0307de5-7d85-4298-a670-77d5e60e0953" absoluteBounds="2.625, 4.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/PizzaDataContext/Deal" />
+      <nestedChildShapes>
+        <elementListCompartment Id="03c088ae-28c9-44f7-9571-f996aa332fea" absoluteBounds="2.64, 4.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
